@@ -6,4 +6,8 @@
  * 5. .env file put the database user name & password.
  * 6. create .gitignore file. In this file put node_modules folder & .env -> because we do not want to view other people to see. This project for practics so we can upload node_modules & .env , for other case we do not upload it.
  * 
+
+
+
+ In this project '.env' file name is 'env'. node_folder put here as a zip file.
  */
